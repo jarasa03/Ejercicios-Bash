@@ -1,5 +1,9 @@
 #!/bin/bash
+
+# @author jarasa03
+
 #ENUNCIADO: Realiza un script que solicite los datos para calcular el volumen de una esfera y de un cilindro.
+
 echo "Introduce el radio de la esfera"
 read radio_esfera
 pi=3.141593
